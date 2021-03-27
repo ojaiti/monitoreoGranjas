@@ -1,6 +1,6 @@
 import React from 'react'
 import veracruz from './data/veracruz'
-import TemplateBioseguridad from './TemplateBioseguridad'
+import TemplateBioseguridad from './components/TemplateBioseguridad'
 
 const TablaVeracruz = () => {
     return (

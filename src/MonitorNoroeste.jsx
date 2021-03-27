@@ -1,5 +1,5 @@
 import React from 'react'
-import TemplateMonitoreo from './TemplateMonitoreo'
+import TemplateMonitoreo from './components/TemplateMonitoreo'
 import ciudades from './data/ciudades'
 
 const MonitorNoroeste = () => {

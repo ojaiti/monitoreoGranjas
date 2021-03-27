@@ -1,6 +1,6 @@
 import React from 'react'
 import tehuacan from './data/tehuacan'
-import TemplateBioseguridad from './TemplateBioseguridad'
+import TemplateBioseguridad from './components/TemplateBioseguridad'
 
 const TablaTehuacan = () => {
     return (

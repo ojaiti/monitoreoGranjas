@@ -1,5 +1,5 @@
 import React from 'react'
-import "./header.css"
+import "../css/header.css"
 import {
     BrowserRouter as Router,
     Switch,
@@ -7,12 +7,12 @@ import {
     Link
   } from "react-router-dom";
 
-import MonitorVeracruz from './MonitorVeracruz';
-import MonitorTehuacan from './MonitorTehuacan';
-import TablaVeracruz from './TablaVeracruz';
-import MonitorNoroeste from './MonitorNoroeste';
-import TablaNoroeste from './TablaNoroeste';
-import TablaTehuacan from './TablaTehuacan';
+import MonitorVeracruz from '../MonitorVeracruz';
+import MonitorTehuacan from '../MonitorTehuacan';
+import TablaVeracruz from '../TablaVeracruz';
+import MonitorNoroeste from '../MonitorNoroeste';
+import TablaNoroeste from '../TablaNoroeste';
+import TablaTehuacan from '../TablaTehuacan';
 const Header = () => {
     return (
         <>

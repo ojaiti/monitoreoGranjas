@@ -1,5 +1,5 @@
 import React from 'react'
-import "./sidebarLeft.css"
+import "../css/sidebarLeft.css"
 const SidebarLeft = () => {
     return (
         <div className="sidebar__left">

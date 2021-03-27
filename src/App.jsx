@@ -1,15 +1,16 @@
-import './App.css';
-import Header from './Header';
-import SidebarLeft from './SidebarLeft';
-import SidebarRight from './SidebarRight';
+import './css/App.css';
+import Header from './components/Header';
+import SidebarLeft from './components/SidebarLeft';
+import SidebarRight from './components/SidebarRight';
 
 function App() {
   return (
     <>
+      <div className="global__app">
+
       {/* Header */}
       <Header />
       {/* Sidebar Left */}
-      <div className="global__app">
 
       <SidebarLeft />
       {/* MainBody */}

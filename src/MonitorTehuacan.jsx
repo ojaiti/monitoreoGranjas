@@ -1,6 +1,6 @@
 import React from 'react'
 import tehuacan from './data/tehuacan'
-import TemplateMonitoreo from './TemplateMonitoreo'
+import TemplateMonitoreo from './components/TemplateMonitoreo'
 
 const MonitorTehuacan = () => {
     return (

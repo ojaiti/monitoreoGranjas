@@ -1,5 +1,5 @@
 import React from 'react'
-import TemplateMonitoreo from './TemplateMonitoreo'
+import TemplateMonitoreo from './components/TemplateMonitoreo'
 import veracruz from './data/veracruz'
 
 const MonitorVeracruz = () => {
