@@ -1,5 +1,5 @@
 import React from 'react'
-import tehuacan from './tehuacan'
+import tehuacan from './data/tehuacan'
 import TemplateMonitoreo from './TemplateMonitoreo'
 
 const MonitorTehuacan = () => {

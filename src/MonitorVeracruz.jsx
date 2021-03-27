@@ -1,6 +1,6 @@
 import React from 'react'
 import TemplateMonitoreo from './TemplateMonitoreo'
-import veracruz from './veracruz'
+import veracruz from './data/veracruz'
 
 const MonitorVeracruz = () => {
     return (

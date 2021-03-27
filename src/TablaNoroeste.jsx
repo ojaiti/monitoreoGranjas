@@ -1,5 +1,5 @@
 import React from 'react'
-import ciudades from './ciudades'
+import ciudades from './data/ciudades'
 import TemplateBioseguridad from './TemplateBioseguridad'
 
 const TablaNoroeste = () => {

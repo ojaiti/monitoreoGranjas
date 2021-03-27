@@ -1,5 +1,5 @@
 import React from 'react'
-import veracruz from './veracruz'
+import veracruz from './data/veracruz'
 import TemplateBioseguridad from './TemplateBioseguridad'
 
 const TablaVeracruz = () => {
